@@ -32,3 +32,27 @@ To run this app locally:
 
 ```R
 shiny::runApp()
+
+## Dependencies
+Make sure the following R packages are installed:
+
+-shiny
+-shinydashboard
+-shinyWidgets
+-tidyverse
+-DT
+-plotly
+-shinycssloaders
+
+You can install them with:
+
+R
+Copy
+Edit
+install.packages(c("shiny", "shinydashboard", "shinyWidgets", "tidyverse", "DT", "plotly", "shinycssloaders"))
+
+## Purpose
+This application was developed as part of a postgraduate data analytics module in dashboard design using R and Shiny.
+
+License
+This project is open for educational and non-commercial use.
