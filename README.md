@@ -30,10 +30,10 @@ To run this app locally:
 2. Open `LinearRegressionApp_v1.R` in RStudio
 3. Run the app with:
 
-```R
 shiny::runApp()
 
 ## Dependencies
+
 Make sure the following R packages are installed:
 
 -shiny
@@ -54,5 +54,5 @@ install.packages(c("shiny", "shinydashboard", "shinyWidgets", "tidyverse", "DT",
 ## Purpose
 This application was developed as part of a postgraduate data analytics module in dashboard design using R and Shiny.
 
-License
+## License
 This project is open for educational and non-commercial use.
